@@ -1,0 +1,23 @@
+1. What is a situation where you had to solve a tough engineering problem?
+
+1a. What was the problem?
+		-When I was with Boeing, my deadlines were kind of tight for the features that was asked for.
+		I had to design a different UI for the app and had to make sure there was no memory leaks.
+
+1b. What did you do to solve it?
+		-During Agile Sprint planning sessions, I facilitated a procedure to best optimize our time and made
+		it so that the UI’s design was unique from the last one without spending too much time on it.
+		I also used MAT to search for any memory leaks in the app before deployment.
+
+
+1c. What was the outcome?
+		-The UI ended up being to the client’s expectations and updated the ListView to a RecyclerView.
+		The application was fully functional without memory leaks and I was able to complete everything
+		with in the deadline given.
+
+
+2. An enterprise company is interested in building a mobile android app.  You are hired to do the job.
+What are the considerations and tradeoffs that you would consider to do the job?
+	-First, I would see if the application that they want is feasible.
+	I would also want to know if the timeframe they want it in is also feasible.
+	Next, I would want to know what my team size is for this project for both Android and iOS teams.
